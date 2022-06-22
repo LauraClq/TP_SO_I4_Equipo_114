@@ -1,0 +1,12 @@
+ALPHA: Diego Coria   BETA: Miguel Ángel Gil   GAMMA: Laura Colque 
+
+Preguntas:
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+El color de fondo de TESTING es azul.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+El color de fondo de DESARROLLO es amarillo.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+El color de fondo de MASTER es azul.
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+El favicon que quedo fue de BETA.
