@@ -10,3 +10,20 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 El color de fondo de MASTER es azul.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 El favicon que quedo fue de BETA.
+E- ¿Algún integrante tuvo problemas al hacer el push?
+BETA Y GAMMA tuvimos problemas con el push. 
+F- ¿Qué problemas surgieron?
+error: failed to push some refs to 'https://github.com/LauraClq/TP_SO_I4_Equipo_114'
+hint: Updates were rejected because the tip of your current branch is behind. 
+Este error sale cuando uno de los integrantes hace una modificacion al repositorio, pero
+nosotros no tenemos la ultima modificacion actualizada en nuestro repositorio.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Una solucion es hacer un git push -f forzando el pusheo pero se sobreescribiran todo lo que habia en el repositorio o 
+antes del push, tendriamos que actulizar nuestro repositorio local con git pull.
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Sobreescribe lo que este en el repositorio con lo que se tenia en el local al hacer el push.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Una solucion seria que cada vez que un integrante hace un cambio, tenemos que actualizar el repositorio local 
+y recien nosotros con esa ultima modificacion del archivo hacemos un push. 
